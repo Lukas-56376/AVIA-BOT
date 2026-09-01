@@ -1,0 +1,15 @@
+{
+  "name": "aviabot",
+  "version": "1.0.0",
+  "description": "Aviation Slack Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@slack/bolt": "^4.1.0",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5"
+  },
+  "license": "ISC"
+}
