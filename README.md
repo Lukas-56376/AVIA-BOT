@@ -153,10 +153,6 @@ AVIA-BOT can be used in an aviation Slack channel to:
 
 AVIA-BOT is currently a small aviation project and is still being improved. More commands and features may be added in the future.
 
-## License
-
-Add your preferred license here, for example MIT License.
-
 ---
 
 Clear skies!
